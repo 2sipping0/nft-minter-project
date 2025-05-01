@@ -60,7 +60,7 @@ nft-minter-project/
 
 1. Clone the repository:
    ```bash
-   git clone [repository-url]
+   git clone https://github.com/2sipping0/nft-minter-project
    cd nft-minter-project
    ```
 
